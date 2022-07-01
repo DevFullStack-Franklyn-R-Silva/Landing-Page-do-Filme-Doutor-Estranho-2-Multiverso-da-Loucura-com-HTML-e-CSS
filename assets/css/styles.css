@@ -44,12 +44,11 @@
     width: 100%;
     max-width: 500px;
     mix-blend-mode: screen;
+    padding: 20px;
 }
 
-.div-img-circulo, .div-img-doutor-estranho {
-    bottom: 0px;
-}
-
+.div-img-circulo,
+.div-img-doutor-estranho,
 .div-img-titulo {
-    bottom: 100px;
+    bottom: 0px;
 }
