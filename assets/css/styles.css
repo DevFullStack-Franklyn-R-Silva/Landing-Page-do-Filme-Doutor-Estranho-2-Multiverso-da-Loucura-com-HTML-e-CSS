@@ -45,3 +45,11 @@
     max-width: 500px;
     mix-blend-mode: screen;
 }
+
+.div-img-circulo, .div-img-doutor-estranho {
+    bottom: 0px;
+}
+
+.div-img-titulo {
+    bottom: 100px;
+}
